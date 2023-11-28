@@ -1,4 +1,4 @@
-# openBuild-starknetjs-workshop
+# OpenBuild Starknet.js Workshop
 
 Starknet.js and Devnet workshop for the OpenBuild community
 
